@@ -1,16 +1,35 @@
-### Hi there 👋
-<a href="https://app.daily.dev/kiloumap"><img src="https://api.daily.dev/devcards/1b0dfb93afca42d2a21aed8cc0f6754b.png?r=vq9" width="400" alt="Laurent Martinez's Dev Card"/></a>
-<!--
-**kiloumap/Kiloumap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Laurent
 
-Here are some ideas to get you started:
+I'm a backend developer with a passion for clean architecture, performance, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- **Languages**: PHP 8.3, JavaScript/TypeScript
+- **Learning**: Go
+- **Frameworks**: Symfony, Node.js (Express)
+- **Databases**: MySQL, PostgreSQL, GraphQL
+- **DevOps**: Docker, GitLab CI, k6, Prometheus, Linux
+
+## 💼 What I Do
+
+- Build and maintain high-performance APIs with millions of daily users  
+- Architect backend services with SOLID principles and long-term scalability in mind  
+- Write reliable tests to support complex business rules  
+- Automate everything — from deployments to versioning with semantic release
+
+## 📈 GitHub Stats
+
+![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=stars&count_private=true)
+
+## ✨ A Bit More About Me
+
+- Based in Québec 🇨🇦, originally from the South of France 🇫🇷  
+- Fan of mechanical watches and clean UIs  
+- Always exploring better ways to code, collaborate, and automate workflows
+
+## 📫 How to Reach Me
+
+- Email: laurent.martinez06@gmail.com
+- LinkedIn: [linkedin.com/in/laurent-martinez-13100](https://linkedin.com/in/laurent-martinez-13100)
+
+Thanks for stopping by!
