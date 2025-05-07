@@ -17,10 +17,6 @@ I'm a backend developer with a passion for clean architecture, performance, and 
 - Write reliable tests to support complex business rules  
 - Automate everything — from deployments to versioning with semantic release
 
-## 📈 GitHub Stats
-
-![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiloumap&show_icons=true&theme=default&hide=stars&count_private=true)
-
 ## ✨ A Bit More About Me
 
 - Based in Québec 🇨🇦, originally from the South of France 🇫🇷  
