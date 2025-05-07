@@ -19,7 +19,7 @@ I'm a backend developer with a passion for clean architecture, performance, and 
 
 ## 📈 GitHub Stats
 
-![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=stars&count_private=true)
+![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiloumap&show_icons=true&theme=default&hide=stars&count_private=true)
 
 ## ✨ A Bit More About Me
 
