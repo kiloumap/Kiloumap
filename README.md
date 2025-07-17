@@ -20,7 +20,6 @@ I'm a backend developer with a passion for clean architecture, performance, and 
 ## ✨ A Bit More About Me
 
 - Based in Québec 🇨🇦, originally from the South of France 🇫🇷  
-- Fan of mechanical watches and clean UIs  
 - Always exploring better ways to code, collaborate, and automate workflows
 
 ## 📫 How to Reach Me
